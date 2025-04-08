@@ -2,18 +2,6 @@
 
 Link to open the app: https://db2.fb2.frankfurt-university.de/ords/r/vgu2425_02/waasac190179/home?session=0
 
-# Project – Group 2
-
-## Group Members
-
-- Muhammad Bilal Javed - 21I-0584
-- Muhammad Taimoor - 21I-0611
-- Jawad Ahmed - 21I-2489
-- Zaid Shahid - 21I-2465
-- Hassan Waseem - 21I-0883
-- Muhammad Hamza - 21I-0597
-
----
 
 ## Project Title: Quiz and Voting System
 
@@ -113,18 +101,7 @@ The Quiz and Voting System is a web-based platform designed to facilitate the cr
 
 ## How to Run the Project
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/quiz-voting-system.git
-    ```
-
-2. Set up Oracle APEX workspace.
-
-3. Import database schema and tables provided in the `/database` folder.
-
-4. Launch the APEX application and start using the platform.
-
----
+Because this is a External Project in a Private Oracle Apex workspace so you need permission to view all the project. However to run the application you just need to click thẻ link at the beginning of this file.
 
 ## Future Enhancements
 
@@ -135,12 +112,5 @@ The Quiz and Voting System is a web-based platform designed to facilitate the cr
 
 ---
 
-## Screenshots
 
-(Add screenshots of your app pages here in markdown like below)
-
-```markdown
-![Login Page](screenshots/login.png)
-![Dashboard](screenshots/dashboard.png)
-![Quiz Page](screenshots/quiz.png)
 
