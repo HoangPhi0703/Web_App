@@ -102,7 +102,9 @@ The Quiz and Voting System is a web-based platform designed to facilitate the cr
 ## How to Run the Project
 
 Because this is a External Project in a Private Oracle Apex workspace so you need permission to view all the project. However to run the application you just need to click thẻ link at the beginning of this file.
-
+I also added the "f179.sql" to this github. This file is a fully exported file from my project in my Oracle Apex workspace of my University.
+You can try to import this file into your own Oracle Apex workspace to see every progress of this project
+(Of course you need to create Oracle Apex account and create your own workspace to do this)
 ## Future Enhancements
 
 - Add quiz timer and session expiration.
